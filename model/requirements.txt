@@ -1,0 +1,13 @@
+numpy
+librosa
+pydub
+langcodes
+transformers
+matplotlib
+pyaudio
+scipy
+keras
+pytesseract
+Pillow
+torch
+tensorflow
