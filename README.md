@@ -37,5 +37,3 @@ Our project is a comprehensive solution designed for sentiment analysis of incom
 1. Gain insights into customer satisfaction.
 2. Identify potential issues and areas for improvement.
 3. Efficiently track and evaluate employee performance in handling calls.
-
-Made with <3 by dHexagon
