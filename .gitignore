@@ -1,2 +1,2 @@
-sihclient/.gitignore
-SIHBackend/.gitignore
+client/.gitignore
+server/.gitignore
